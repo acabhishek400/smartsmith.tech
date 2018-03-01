@@ -2955,6 +2955,11 @@ blockquote cite:before {
     content: "\2014 \2009";
 }
 
+.quote1 {
+    margin-top: -106px;
+    margin-bottom: 21px;
+}
+
 
 
 
