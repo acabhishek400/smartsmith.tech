@@ -2360,6 +2360,14 @@ Google map
   color: #111;
 }
 
+.widget-title1{
+  /*border-bottom: 1px dotted #c2c2c2;*/
+  text-align: center;
+  font-size: 14px;
+  padding: 0 0 10px;
+  margin: 0 0 15px;
+}
+
 .widget .widget-title {
   border-bottom: 1px dotted #c2c2c2;
   font-size: 14px;
@@ -2895,6 +2903,7 @@ Google map
   }
   .copyright,
   .footer-social-links {
+    /*border-top: 2px solid #c2c2c2;*/
     text-align: center;
     margin: 10px 0;
   }
